@@ -8,5 +8,7 @@ We had also created video on explaination of working of the model which we creat
 ## Other contributors
 
 [Prashant Bairagi](linkedin.com/in/prashant-bairagi-ab6a55208)
+
 [Umesh Bhatiya](linkedin.com/in/umesh-bhatiya-963a79205)
+
 [Hitesh Dhanraj](linkedin.com/in/hitesh-dhanraj-455b0a223)
